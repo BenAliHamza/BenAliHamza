@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ben Ali Hamza</h1>
 <h3 align="center">Full stack developer</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center" >
+  <img  width="140" src="https://avatars.githubusercontent.com/u/132414715?v=4" />
+  <h2 align="center">GitHub Profile page</h2>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benalihamza&label=Profile%20views&color=0e75b6&style=flat" alt="benalihamza" /> </p>
 
