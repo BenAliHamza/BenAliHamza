@@ -1,3 +1,9 @@
+<div style='width:100%;text-alignement:center' > 
+     <div style='display:inline-block;border:5px solid red; border-raduis:50px' >
+        <img src='https://avatars.githubusercontent.com/u/132414715?v=4' >
+     </div>
+</div>
+
 <h1 align="center">Hi 👋, I'm Ben Ali Hamza</h1>
 <h3 align="center">Full stack developer</h3>
 
