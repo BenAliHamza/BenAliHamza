@@ -1,11 +1,6 @@
-<div style='width:100%;text-alignement:center' > 
-     <div style='display:inline-block;border:5px solid red; border-raduis:50px' >
-        <img src='https://avatars.githubusercontent.com/u/132414715?v=4' >
-     </div>
-</div>
-
 <h1 align="center">Hi 👋, I'm Ben Ali Hamza</h1>
 <h3 align="center">Full stack developer</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benalihamza&label=Profile%20views&color=0e75b6&style=flat" alt="benalihamza" /> </p>
 
